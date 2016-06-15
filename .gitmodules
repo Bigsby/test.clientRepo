@@ -1,3 +1,0 @@
-[submodule "test.baseRepo"]
-	path = test.baseRepo
-	url = https://github.com/Bigsby/test.baseRepo.git
